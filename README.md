@@ -25,3 +25,5 @@ Glad to have you here! I'm a passionate technology enthusiast and coder, always 
 
 
 Check out my [Resume](https://github.com/furkngoksu/documents/blob/main/Furkan_cv.pdf).
+Check out my [Webpage](https://furkngoksu.github.io/furkngoksu/).
+
