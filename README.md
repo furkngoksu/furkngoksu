@@ -18,13 +18,10 @@ Glad to have you here! I'm a passionate technology enthusiast and coder, always 
 
 ## Languages and Tools:
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,github,js,latex,mysql,postman,py,sklearn,tensorflow,unity,unreal&theme=light)](https://skillicons.dev)
 
 ## Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-yasir-göksu)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/furkanyasirgoksu)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/FurkanYasirG), and [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/furkanyasir.goksu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-goksu-8065b4201)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/furkngoksu)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/furkngoksu)
 
 Check out my [Resume](https://github.com/furkngoksu/documents/blob/main/Furkan_cv.pdf).
