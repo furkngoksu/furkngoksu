@@ -8,7 +8,6 @@ Glad to have you here! I'm a passionate technology enthusiast and coder, always 
 - 🔧 Proficient with tools like Keras, R, PyTorch, Unity, Git, Unreal Engine, and VS Code.
 - 🤖 Exploring the frontiers of Artificial Intelligence and Machine Learning.
 - 🚀 Most of my projects are available on [GitHub](https://github.com/yourusername).
-- 📫 Reach out to me at: `goksu20@itu.edu.tr`
 
 ## My Absolute Favorites:
 
@@ -22,6 +21,7 @@ Glad to have you here! I'm a passionate technology enthusiast and coder, always 
 
 ## Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-goksu-8065b4201)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/furkngoksu)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/furkngoksu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-goksu-8065b4201)[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.goksu.399@gmail.com)
+
 
 Check out my [Resume](https://github.com/furkngoksu/documents/blob/main/Furkan_cv.pdf).
