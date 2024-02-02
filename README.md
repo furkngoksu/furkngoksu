@@ -7,7 +7,7 @@ Glad to have you here! I'm a passionate technology enthusiast and coder, always 
 - 🐧 Currently sharpening my skills in C, Python, SQL, and C++.
 - 🔧 Proficient with tools like Keras, R, PyTorch, Pandas, Git, and VS Code.
 - 🤖 Exploring the frontiers of Artificial Intelligence and Machine Learning.
-- 🚀 Most of my projects are available on [GitHub](https://github.com/yourusername).
+- 🚀 Most of my projects are available on [GitHub](https://github.com/furkngoksu).
 
 ## My Absolute Favorites:
 
