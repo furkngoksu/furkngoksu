@@ -17,7 +17,7 @@ Glad to have you here! I'm a passionate technology enthusiast and coder, always 
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,github,js,pandas,sql,latex,mysql,postman,py,sklearn,tensorflow,unity,unreal&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,github,js,latex,mysql,postman,py,sklearn,tensorflow,unity,unreal&theme=light)](https://skillicons.dev)
 
 ## Connect with Me:
 
