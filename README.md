@@ -24,6 +24,6 @@ Glad to have you here! I'm a passionate technology enthusiast and coder, always 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-goksu-8065b4201)[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.goksu.399@gmail.com)
 
 
-- Check out my [Resume](https://github.com/furkngoksu/documents/blob/main/Furkan_cv.pdf)
+- Check out my [Resume](https://github.com/furkngoksu/documents/blob/main/furkangoksu_cv.pdf)
 - Check out my [Webpage](https://furkngoksu.github.io/furkngoksu/)
 
