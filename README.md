@@ -11,7 +11,7 @@ Welcome! I'm an Artificial Intelligence and Data Engineering student passionate 
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,github,js,latex,mysql,postman,py,sklearn,tensorflow,unity,unreal&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,fastapi,spring,docker,git,github,mongodb,postgres,azure,aws,vscode,linux,latex,sklearn,tensorflow,pytorch,graphql&theme=light)](https://skillicons.dev)
 
 ## Connect with Me:
 
