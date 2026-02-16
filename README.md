@@ -4,18 +4,22 @@ Welcome! I'm an Artificial Intelligence and Data Engineering student passionate 
 
 ## 👨‍💻 About Me
 
-- 🤖 Interested in AI-driven applications, LLMs, agent-based systems, and backend engineering  
-- 🧠 Currently working on research in fairness-aware recommendation systems  
-- 🚀 Building agentic AI workflows and automations using modern frameworks and APIs  
-- 🎓 Continuously improving in areas like machine learning, software development, and cloud infrastructure  
+- 🤖 Interested in AI-driven applications, **LLMs**, and agent-based systems  
+- 🚀 Building agentic AI workflows and automations with modern frameworks and APIs  
+- 🧩 Developing AI-integrated backend services and data-driven applications
+- 📊 Working across data science and applied machine learning
+
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,fastapi,spring,docker,git,github,mongodb,postgres,azure,aws,vscode,linux,latex,sklearn,tensorflow,pytorch,graphql&theme=light)](https://skillicons.dev)
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,sql,langchain,langgraph,mcp,fastapi,spring,pytorch,docker,git,github,kafka,nifi,elasticsearch,kibana,mongodb,spark,hadoop,aws,azure,linux,vllm,milvus&theme=light&perline=12" />
+</p>
 
-## Connect with Me:
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-goksu-8065b4201)[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.goksu.399@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-goksu-8065b4201)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.goksu.399@gmail.com)
 
 - 📄 Check out my [Resume](https://github.com/furkngoksu/documents/blob/main/furkangoksu_cv.pdf)
 - 🌐 Check out my [Webpage](https://furkngoksu.github.io/furkngoksu/)
