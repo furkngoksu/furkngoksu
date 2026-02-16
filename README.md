@@ -13,8 +13,9 @@ Welcome! I'm an Artificial Intelligence and Data Engineering student passionate 
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,sql,langchain,langgraph,mcp,fastapi,spring,pytorch,docker,git,github,kafka,nifi,elasticsearch,kibana,mongodb,spark,hadoop,aws,azure,linux,vllm,milvus&theme=light&perline=12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,sql,pytorch,langchain,langgraph,vllm,mcp,milvus,kafka,mongodb,postgresql,docker,aws,azure,linux,spark,hadoop,nifi&theme=light&perline=12" />
 </p>
+
 
 ## 🌐 Connect with Me
 
