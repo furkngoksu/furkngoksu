@@ -13,7 +13,7 @@ Welcome! I'm an Artificial Intelligence and Data Engineering student passionate 
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,postgresql,langchain,mcp,pytorch,vllm,milvus,fastapi,docker,kafka,mongodb,aws,azure,linux,spark,hadoop,nifi&theme=light&perline=12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,postgresql,langchain,mcp,pytorch,milvus,fastapi,docker,kafka,mongodb,aws,azure,linux,spark,hadoop,nifi&theme=light&perline=12" />
 </p>
 
 
