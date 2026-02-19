@@ -22,6 +22,3 @@ Welcome! I'm an Artificial Intelligence and Data Engineering student passionate 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-goksu-8065b4201)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.goksu.399@gmail.com)
-
-- 📄 Check out my [Resume](https://github.com/furkngoksu/documents/blob/main/furkangoksu_cv.pdf)
-- 🌐 Check out my [Webpage](https://furkngoksu.github.io/furkngoksu/)
