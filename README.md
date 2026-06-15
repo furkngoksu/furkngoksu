@@ -37,7 +37,7 @@ Welcome! I'm an AI Engineer & Data Scientist passionate about building intellige
 <br/>
 
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,postgresql,elasticsearch,langchain,mcp,pytorch,milvus,fastapi,spring,docker,kafka,mongodb,aws,azure,linux,spark,hadoop,nifi,git&theme=dark&perline=12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,postgresql,elasticsearch,langchain,mcp,pytorch,milvus,fastapi,spring,docker,kafka,mongodb,aws,azure,linux,spark,hadoop,git&theme=dark&perline=12" />
 </div>
 
 ---
