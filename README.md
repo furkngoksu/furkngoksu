@@ -42,14 +42,6 @@ Welcome! I'm an AI Engineer & Data Scientist passionate about building intellige
 
 ---
 
-### 🏆 Certifications
-
-* **DeepLearning.AI:** Machine Learning Specialization & Deep Learning Specialization
-* **IBM:** Data Science Professional Certificate
-* **Harvard University:** CS50 Introduction to AI with Python
-
----
-
 ### 📊 Most Used Languages
 
 <div align="center">
