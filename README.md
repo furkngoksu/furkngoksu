@@ -1,8 +1,13 @@
 # Hey there! 👋 I'm Furkan Yasir Göksu
 
-I am an **Artificial Intelligence and Data Engineering** student at Istanbul Technical University (GPA: 3.38/4.00, Honor Student) and currently working as a **Data Scientist & AI Engineer at Architecht**. 
+Welcome! I'm an AI Engineer & Data Scientist passionate about building intelligent systems and meaningful technology.
 
-I am passionate about building intelligent systems, stateful agentic workflows (LLMs, LangChain/LangGraph), MCP-based tool-serving infrastructures, and advanced RAG applications.
+## 👨‍💻 About Me
+
+- 🤖 Focused on AI-driven applications, **LLMs**, and stateful agentic workflows (LangChain, LangGraph)
+- 🚀 Building MCP-based tool-serving infrastructures and advanced RAG applications
+- 🧩 Developing AI-integrated backend services and data-driven applications
+- 📊 Working across data science, applied machine learning, and recommendation systems
 
 ---
 
