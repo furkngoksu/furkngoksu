@@ -32,7 +32,7 @@ I am passionate about building intelligent systems, stateful agentic workflows (
 <br/>
 
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,postgresql,langchain,mcp,pytorch,milvus,fastapi,docker,kafka,mongodb,aws,azure,linux,spark,hadoop,nifi&theme=dark&perline=12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,postgresql,elasticsearch,langchain,mcp,pytorch,milvus,fastapi,spring,docker,kafka,mongodb,aws,azure,linux,spark,hadoop,nifi,git&theme=dark&perline=12" />
 </div>
 
 ---
