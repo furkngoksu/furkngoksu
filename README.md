@@ -45,10 +45,8 @@ I am passionate about building intelligent systems, stateful agentic workflows (
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkngoksu&show_icons=true&theme=radical&count_private=true" alt="Furkan's GitHub Stats" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkngoksu&layout=compact&theme=radical" alt="Furkan's Top Languages" />
 </div>
