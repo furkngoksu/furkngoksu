@@ -22,23 +22,6 @@ I am passionate about building intelligent systems, stateful agentic workflows (
 
 ---
 
-### 👨‍💻 Work Experience
-
-* **Data Scientist | AI Engineer** @ **Architecht** *(July 2025 – Present)*
-  - Developing LLM-based assistants and agentic components with LangChain.
-  - Designing stateful agentic workflows, custom tool schemas, and MCP-based tool-serving infrastructure.
-  - Improving RAG pipelines via retrieval quality, ranking strategies, and context evaluation.
-* **Undergraduate Research Assistant** @ **Learning from Data and Optimization Lab, ITU** *(Jan 2025 – Present)*
-  - Building fairness-aware recommendation systems using LLMs and traditional baselines.
-  - Fine-tuning recommender models using LoRA (PEFT) to reduce compute overhead.
-* **Software Engineer** @ **Commencis** *(Sept 2024 – July 2025)*
-  - Built embedding-based suggestion engines for semantic search and personalized relevance.
-  - Developed LLM-powered NLP features and built audio diarization/ASR pipelines.
-* **Software Engineer Intern** @ **Commencis** *(June 2024 – Aug 2024)*
-  - Developed backend microservices using FastAPI and Spring Boot with MongoDB.
-
----
-
 ### 🛠️ Skills & Technologies
 
 * **Programming:** Python, C++, Java, SQL
