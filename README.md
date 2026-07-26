@@ -30,7 +30,7 @@ Welcome! I'm an AI Engineer & Data Scientist passionate about building intellige
 ### 🛠️ Skills & Technologies
 
 * **Programming:** Python, C++, Java, SQL
-* **AI & Machine Learning:** LangChain, LangGraph, Model Context Protocol (MCP), PyTorch, vLLM, RAG, LoRA (Fine-tuning)
+* **AI & Machine Learning:** LangChain, LangGraph, Model Context Protocol (MCP), PyTorch, vLLM, RAG, Agentic Workflows, Retrieval Evaluation, LoRA (Fine-tuning)
 * **Data & Software Engineering:** FastAPI, Spring Boot, Apache Kafka, Apache Spark, Apache NiFi, Hadoop
 * **Storage & Cloud:** Milvus, MongoDB, PostgreSQL, Elasticsearch, Docker, AWS, Azure, Git
 
@@ -38,12 +38,4 @@ Welcome! I'm an AI Engineer & Data Scientist passionate about building intellige
 
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,postgresql,elasticsearch,langchain,mcp,pytorch,milvus,fastapi,spring,docker,kafka,mongodb,aws,azure,linux,spark,hadoop,git&theme=dark&perline=12" />
-</div>
-
----
-
-### 📊 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkngoksu&layout=compact&theme=radical" alt="Furkan's Top Languages" />
 </div>
