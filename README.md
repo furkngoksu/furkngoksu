@@ -1,15 +1,15 @@
-# Hey there! 👋 I'm Furkan Yasir Göksu
+# Hi, I’m Furkan Göksu 👋
 
-Welcome! I'm an AI Engineer & Data Scientist passionate about building intelligent systems and meaningful technology.
+AI Engineer with a B.Sc. in Artificial Intelligence and Data Engineering from Istanbul Technical University.
 
-## 👨‍💻 About Me
+## About Me
 
-- 🤖 Focused on AI-driven applications, **LLMs**, and stateful agentic workflows (LangChain, LangGraph)
-- 🚀 Building MCP-based tool-serving infrastructures and advanced RAG applications
-- 🧩 Developing AI-integrated backend services and data-driven applications
-- 📊 Working across data science, applied machine learning, and recommendation systems
+- Building LLM applications, agent workflows, and retrieval systems.
+- Developing backend services and enterprise integrations with LangGraph, LangChain, and MCP.
+- Researching LLM-based recommendation systems and working on applied NLP.
 
 ---
+
 
 <div align="center">
   <a href="./Furkan_Goksu_CV.pdf">
@@ -25,17 +25,23 @@ Welcome! I'm an AI Engineer & Data Scientist passionate about building intellige
   </a>
 </div>
 
+
 ---
+
 
 ### 🛠️ Skills & Technologies
 
+
 * **Programming:** Python, C++, Java, SQL
-* **AI & Machine Learning:** LangChain, LangGraph, Model Context Protocol (MCP), PyTorch, vLLM, RAG, Agentic Workflows, Retrieval Evaluation, LoRA (Fine-tuning)
+* **AI & Machine Learning:** LangChain, LangGraph, Model Context Protocol (MCP), PyTorch, vLLM, RAG, Agentic Workflows, Retrieval Evaluation, LoRA, QLoRA
 * **Data & Software Engineering:** FastAPI, Spring Boot, Apache Kafka, Apache Spark, Apache NiFi, Hadoop
 * **Storage & Cloud:** Milvus, MongoDB, PostgreSQL, Elasticsearch, Docker, AWS, Azure, Git
 
+
 <br/>
+
 
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,postgresql,elasticsearch,langchain,mcp,pytorch,milvus,fastapi,spring,docker,kafka,mongodb,aws,azure,linux,spark,hadoop,git&theme=dark&perline=12" />
 </div>
+
