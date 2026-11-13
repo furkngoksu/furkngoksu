@@ -1,47 +1,14 @@
-# Hi, I’m Furkan Göksu 👋
+# Furkan Goksu
 
-AI Engineer with a B.Sc. in Artificial Intelligence and Data Engineering from Istanbul Technical University.
+AI engineer working on LLM applications, agent workflows, and retrieval systems. I build backend services and enterprise integrations, and my research focuses on LLM-based recommendation systems.
 
-## About Me
+B.Sc. in Artificial Intelligence and Data Engineering, Istanbul Technical University.
 
-- Building LLM applications, agent workflows, and retrieval systems.
-- Developing backend services and enterprise integrations with LangGraph, LangChain, and MCP.
-- Researching LLM-based recommendation systems and working on applied NLP.
+[CV](./Furkan_Goksu_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/furkan-goksu-x399/) · [Email](mailto:furkan.goksu.399@gmail.com)
 
----
+## Skills & Technologies
 
-
-<div align="center">
-  <a href="./Furkan_Goksu_CV.pdf">
-    <img src="https://img.shields.io/badge/📄_View_My_CV-Download_PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View CV"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/furkan-goksu-x399">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:furkan.goksu.399@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
-
----
-
-
-### 🛠️ Skills & Technologies
-
-
-* **Programming:** Python, C++, Java, SQL
-* **AI & Machine Learning:** LangChain, LangGraph, Model Context Protocol (MCP), PyTorch, vLLM, RAG, Agentic Workflows, Retrieval Evaluation, LoRA, QLoRA
-* **Data & Software Engineering:** FastAPI, Spring Boot, Apache Kafka, Apache Spark, Apache NiFi, Hadoop
-* **Storage & Cloud:** Milvus, MongoDB, PostgreSQL, Elasticsearch, Docker, AWS, Azure, Git
-
-
-<br/>
-
-
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,postgresql,elasticsearch,langchain,mcp,pytorch,milvus,fastapi,spring,docker,kafka,mongodb,aws,azure,linux,spark,hadoop,git&theme=dark&perline=12" />
-</div>
-
+- **Programming:** Python, C++, Java, JavaScript, SQL
+- **AI & Machine Learning:** LangGraph, LangChain, MCP, PyTorch, vLLM, RAG, LoRA, QLoRA
+- **Backend & Data Engineering:** FastAPI, Spring Boot, Apache Kafka, Apache Spark, Apache NiFi, Hadoop
+- **Storage & Infrastructure:** Milvus, MongoDB, PostgreSQL, Elasticsearch, Docker, AWS, Azure, Git
