@@ -1,6 +1,6 @@
 # Furkan Goksu
 
-AI engineer working on LLM applications, agent workflows, and retrieval systems. I build backend services and enterprise integrations, and my research focuses on LLM-based recommendation systems.
+AI engineer working on LLM applications, agent workflows, and retrieval systems. I build backend services and enterprise integrations.
 
 B.Sc. in Artificial Intelligence and Data Engineering, Istanbul Technical University.<p align="center">
   <a href="https://furkngoksu.github.io/furkngoksu/Furkan_Goksu_CV.pdf"><img src="https://img.shields.io/badge/CV-007EC6?style=for-the-badge" alt="CV"></a>
